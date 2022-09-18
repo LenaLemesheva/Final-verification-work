@@ -1,0 +1,15 @@
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/bin/Debug/net6.0/Program_Task
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/bin/Debug/net6.0/Program_Task.deps.json
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/bin/Debug/net6.0/Program_Task.runtimeconfig.json
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/bin/Debug/net6.0/Program_Task.dll
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/bin/Debug/net6.0/Program_Task.pdb
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/Program_Task.csproj.AssemblyReference.cache
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/Program_Task.GeneratedMSBuildEditorConfig.editorconfig
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/Program_Task.AssemblyInfoInputs.cache
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/Program_Task.AssemblyInfo.cs
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/Program_Task.csproj.CoreCompileInputs.cache
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/Program_Task.dll
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/refint/Program_Task.dll
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/Program_Task.pdb
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/Program_Task.genruntimeconfig.cache
+/home/dal90pc/Документы/Учеба/Проверочная первый блок/Werification_work/Program_Task/obj/Debug/net6.0/ref/Program_Task.dll
